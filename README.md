@@ -8,6 +8,8 @@ This repository showcases my work as an M.S. Computer Science / Data Science stu
 **Exploratory Data Analysis (EDA) on Netflix Titles Dataset:**
 - **Focus**: Data cleaning, trend analysis (genre, ratings, release year, certifications).
 - **Tools**: Python, Pandas, Matplotlib, NumPy
+- **Notebook**: [Netflix EDA Notebook](./netflix.ipynb)
+
 
 ---
 ## Future Areas of Focus
