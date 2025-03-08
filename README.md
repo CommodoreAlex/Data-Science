@@ -3,7 +3,7 @@
 This repository showcases my work as an M.S. Computer Science / Data Science student, with ongoing and future projects focused on key data science techniques. It highlights my commitment to learning and applying data analysis, machine learning, deep learning, and other advanced methods to solve real-world problems.
 
 ---
-## Objectives Complete
+## Shared Work
 
 **Exploratory Data Analysis (EDA) on Netflix Titles Dataset:**
 - **Focus**: Data cleaning, trend analysis (genre, ratings, release year, certifications).
