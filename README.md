@@ -14,7 +14,7 @@ This repository showcases my work as an M.S. Computer Science / Data Science stu
 ---
 ## Future Areas of Focus
 
-- **Data Visualization**: Interactive dashboards and visualizations (Tableau, Plotly).
+- **Data Visualization**: Interactive dashboards and visualizations (Plotly).
 - **Machine Learning**: Data preprocessing, model development (classification, regression), and evaluation.
 - **Natural Language Processing**: Text analysis, sentiment analysis, and classification.
 - **Deep Learning**: Neural networks for tasks like image classification.
