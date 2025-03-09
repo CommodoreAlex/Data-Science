@@ -17,6 +17,12 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Tools**: Python, Pandas, Plotly, NumPy, Dash
 - **Notebook**: [Bitcoin Data Visualization Notebook](./Data.ipynb)
 
+**TensorFlow Churn Prediction: A First Experience**
+
+- **Focus**: Building a simple neural network using TensorFlow to predict customer churn based on historical data. It covers data loading, model creation, training, and evaluation to predict customer churn.
+- **Tools**: Python, TensorFlow, Keras, NumPy, Pandas
+- **Notebook**: [TensorFlow Flow Churn Prediction Notebook](./Tensors.ipynb)
+
 ## Supplementary Work
 
 These are additional notebooks and resources focusing on foundational concepts or experimentation with tools.
@@ -39,9 +45,9 @@ These are additional notebooks and resources focusing on foundational concepts o
 ## Skills & Tools
 
 - **Languages**: Python, R
-- **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenAI Gym
+- **Libraries**: Pandas, Scikit-learn, TensorFlow, Keras, OpenAI Gym, Matplotlib
 - **Machine Learning**: Supervised/Unsupervised Learning, Model Evaluation
 - **Deep Learning**: CNNs, RNNs, DQN
-- **Visualization**: Matplotlib, Plotly, Dash
+- **Visualization**: Tableau, Plotly
 
 ---
