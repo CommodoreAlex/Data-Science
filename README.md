@@ -39,9 +39,9 @@ These are additional notebooks and resources focusing on foundational concepts o
 ## Skills & Tools
 
 - **Languages**: Python, R
-- **Libraries**: Pandas, Scikit-learn, TensorFlow, Keras, OpenAI Gym, Matplotlib
+- **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenAI Gym
 - **Machine Learning**: Supervised/Unsupervised Learning, Model Evaluation
 - **Deep Learning**: CNNs, RNNs, DQN
-- **Visualization**: Tableau, Plotly
+- **Visualization**: Matplotlib, Plotly, Dash
 
 ---
