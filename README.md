@@ -23,12 +23,18 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Tools**: Python, TensorFlow, Keras, NumPy, Pandas
 - **Notebook**: [TensorFlow Flow Churn Prediction Notebook](./Tensors.ipynb)
 
+----
 ## Supplementary Work
 
 These are additional notebooks and resources focusing on foundational concepts or experimentation with tools.
 
-**CRUD Operations with NumPy:**
+**Introduction to Pandas CRUD Operations:**
+- **Focus**: This notebook covers the essential Create, Read, Update, and Delete (CRUD) operations in Pandas. It provides a hands-on introduction to handling data in Pandas, including loading datasets, manipulating data, and exporting the results.
+- **Dataset**: [Telco Churn Dataset](https://github.com/nicknochnack/Pandasin20Minutes/blob/master/telco_churn.csv)
+- **Tools**: Python, Pandas
+- **Notebook**: [Pandas CRUD Operations Notebook](Pandas.ipynb)
 
+**CRUD Operations with NumPy:**
 - **Focus**: This notebook explores the basic Create, Read, Update, and Delete (CRUD) operations using NumPy arrays, providing a foundation for data manipulation.
 - **Tools**: Python, NumPy
 - **Notebook**: [CRUD Operations with NumPy](./crud.ipynb)
