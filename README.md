@@ -38,7 +38,7 @@ These are additional notebooks and resources focusing on foundational concepts o
 
 - **Machine Learning**: Data preprocessing, model development (classification, regression), and evaluation.
 - **Natural Language Processing**: Text analysis, sentiment analysis, and classification.
-- **Deep Learning**: Neural networks for tasks like image classification.
+- **Deep Learning**: Neural networks for tasks like image classification using MNIST.
 - **Reinforcement Learning**: Implementing algorithms with OpenAI Gym.
 
 ---
