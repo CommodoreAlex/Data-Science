@@ -13,7 +13,7 @@ This repository showcases my work as an M.S. Computer Science / Data Science stu
 **Expanding on Exploratory Data Analysis (EDA) on Bitcoin Historical Dataset:**
 - **Focus**: Data cleaning, trend analysis of Bitcoin's price movements, volatility, and trading volume over time. This involves analyzing Bitcoin's opening, closing, high, and low prices, as well as the trading volume across different years (2014-2018), identifying patterns, and understanding market behavior.
 - **Tools**: Python, Pandas, Plotly, NumPy, Dash
-- **Notebook**: [Bitcoin Data Visualization Notebook](./data.ipynb)
+- **Notebook**: [Bitcoin Data Visualization Notebook](./Data.ipynb)
 
 ---
 ## Future Areas of Focus
