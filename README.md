@@ -17,16 +17,23 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Tools**: Python, Pandas, Plotly, NumPy, Dash
 - **Notebook**: [Bitcoin Data Visualization Notebook](./Data.ipynb)
 
-**TensorFlow Churn Prediction: A First Experience**
+**Machine Learning Model for Predicting Telco Customer Churn:**
+- **Objective**: Build a machine learning model to predict customer churn using the Telco Customer Churn dataset. The project involves data preprocessing, model creation, training, and evaluation to determine the likelihood of customer churn.
+- **Approach**: Focused on testing multiple machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting (XGBoost), to predict customer churn. The project involves data exploration, feature engineering, and model performance evaluation.
+- **Tools & Libraries**: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost
+- **Notebook**: [Telco Customer Churn Prediction Notebook](./ML.ipynb)
 
-- **Focus**: Building a simple neural network using TensorFlow to predict customer churn based on historical data. It covers data loading, model creation, training, and evaluation to predict customer churn.
-- **Tools**: Python, TensorFlow, Keras, NumPy, Pandas
-- **Notebook**: [TensorFlow Flow Churn Prediction Notebook](./Tensors.ipynb)
 
 ----
 ## Supplementary Work
 
 These are additional notebooks and resources focusing on foundational concepts or experimentation with tools.
+
+**TensorFlow Churn Prediction: A First Experience**
+
+- **Focus**: Building a simple neural network using TensorFlow to predict customer churn based on historical data. It covers data loading, model creation, training, and evaluation to predict customer churn.
+- **Tools**: Python, TensorFlow, Keras, NumPy, Pandas
+- **Notebook**: [TensorFlow Flow Churn Prediction Notebook](./Tensors.ipynb)
 
 **Introduction to Pandas CRUD Operations:**
 - **Focus**: This notebook covers the essential Create, Read, Update, and Delete (CRUD) operations in Pandas. It provides a hands-on introduction to handling data in Pandas, including loading datasets, manipulating data, and exporting the results.
