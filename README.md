@@ -56,15 +56,15 @@ These are additional notebooks and resources focusing on foundational concepts o
 ---
 ## Skills & Tools
 
-- Languages: Python, R
-- Libraries & Frameworks:
-- Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, Keras, Plotly, Dash
-- Data Visualization: Matplotlib, Seaborn, Tableau
-- Deep Learning: TensorFlow, Keras, CNNs, RNNs, DQN
-- Tools & Platforms: Jupyter Notebooks, Git, Kaggle
-- Machine Learning: Supervised/Unsupervised Learning, Classification, Regression, Model Evaluation, Cross-validation
-- Data Preprocessing: Data Cleaning, Feature Engineering, One-Hot Encoding, Scaling, Handling Missing Data
-- Deep Learning: Neural Networks (ANNs, CNNs, RNNs), Hyperparameter Tuning
-- Data Analysis: Exploratory Data Analysis (EDA), Trend Analysis, Time Series Analysis
-- Visualization: Plotly, Tableau, Matplotlib, Seaborn
+- **Languages:** Python, R
+- **Libraries & Frameworks:**
+  - Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, Keras, Plotly, Dash
+  - Data Visualization: Matplotlib, Seaborn, Tableau
+  - Deep Learning: TensorFlow, Keras, CNNs, RNNs, DQN
+  - Tools & Platforms: Jupyter Notebooks, Git, Kaggle
+- **Machine Learning:** Supervised/Unsupervised Learning, Classification, Regression, Model Evaluation, Cross-validation
+- **Data Preprocessing:** Data Cleaning, Feature Engineering, One-Hot Encoding, Scaling, Handling Missing Data
+- **Deep Learning:** Neural Networks (ANNs, CNNs, RNNs), Hyperparameter Tuning
+- **Data Analysis:** Exploratory Data Analysis (EDA), Trend Analysis, Time Series Analysis
+- **Visualization:** Plotly, Tableau, Matplotlib, Seaborn
 ---
