@@ -29,8 +29,12 @@ These projects showcase my focused work in data science, machine learning, and d
 
 These are additional notebooks and resources focusing on foundational concepts or experimentation with tools.
 
-**TensorFlow Churn Prediction: A First Experience**
+**FirstCuda: CUDA Programming in Jupyter Notebook for Beginners**
+- **Focus**: Introduction to CUDA programming for high-performance computing tasks using NVIDIA GPUs within a Jupyter Notebook. It covers setting up CUDA with Jupyter/Anaconda, benchmarking CPU vs. GPU performance, and writing custom CUDA kernels for element-wise operations.
+- **Tools**: Python, NumPy, CuPy, CUDA Toolkit
+- **Notebook**: [CUDA Notebook](FirstCuda.ipynb)
 
+**TensorFlow Churn Prediction: A First Experience**
 - **Focus**: Building a simple neural network using TensorFlow to predict customer churn based on historical data. It covers data loading, model creation, training, and evaluation to predict customer churn.
 - **Tools**: Python, TensorFlow, Keras, NumPy, Pandas
 - **Notebook**: [TensorFlow Flow Churn Prediction Notebook](./Tensors.ipynb)
@@ -56,15 +60,11 @@ These are additional notebooks and resources focusing on foundational concepts o
 ---
 ## Skills & Tools
 
-- **Languages:** Python, R
-- **Libraries & Frameworks:**
-  - Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, Keras, Plotly, Dash
-  - Data Visualization: Matplotlib, Seaborn, Tableau
-  - Deep Learning: TensorFlow, Keras, CNNs, RNNs, DQN
-  - Tools & Platforms: Jupyter Notebooks, Git, Kaggle
-- **Machine Learning:** Supervised/Unsupervised Learning, Classification, Regression, Model Evaluation, Cross-validation
-- **Data Preprocessing:** Data Cleaning, Feature Engineering, One-Hot Encoding, Scaling, Handling Missing Data
-- **Deep Learning:** Neural Networks (ANNs, CNNs, RNNs), Hyperparameter Tuning
-- **Data Analysis:** Exploratory Data Analysis (EDA), Trend Analysis, Time Series Analysis
-- **Visualization:** Plotly, Tableau, Matplotlib, Seaborn
+- **Languages**: Python, R
+- **Libraries**: Pandas, Scikit-learn, TensorFlow, Keras, OpenAI Gym, Matplotlib
+- **Machine Learning**: Supervised/Unsupervised Learning, Model Evaluation
+- **Deep Learning**: CNNs, RNNs, DQN
+- **Visualization**: Tableau, Plotly
+- High-Performance Computing: CUDA, GPU Acceleration
+
 ---
