@@ -41,7 +41,6 @@ These are additional notebooks and resources focusing on foundational concepts o
 
 **Introduction to Pandas CRUD Operations:**
 - **Focus**: This notebook covers the essential Create, Read, Update, and Delete (CRUD) operations in Pandas. It provides a hands-on introduction to handling data in Pandas, including loading datasets, manipulating data, and exporting the results.
-- **Dataset**: [Telco Churn Dataset](https://github.com/nicknochnack/Pandasin20Minutes/blob/master/telco_churn.csv)
 - **Tools**: Python, Pandas
 - **Notebook**: [Pandas CRUD Operations Notebook](Pandas.ipynb)
 
