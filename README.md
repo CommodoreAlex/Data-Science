@@ -55,6 +55,7 @@ These are additional notebooks and resources focusing on foundational concepts o
 - **Natural Language Processing**: Text analysis, sentiment analysis, and classification.
 - **Deep Learning**: Neural networks for tasks like image classification using MNIST.
 - **Reinforcement Learning**: Implementing algorithms with OpenAI Gym.
+- **Malware Analysis**: Leveraging data science techniques to dissect and understand malware behavior, utilizing machine learning for pattern recognition, anomaly detection, and automated classification.
 
 ---
 ## Skills & Tools
