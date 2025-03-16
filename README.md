@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This repository showcases my work as an M.S. Computer Science / Data Science student, with ongoing and future projects focused on key data science techniques. It highlights my commitment to learning and applying data analysis, machine learning, deep learning, and other advanced methods to solve real-world problems.
+This repository showcases my work as an M.S. Computer Science (Data Science/AI) student, with ongoing and future projects focused on key data science techniques. It highlights my commitment to learning and applying data analysis, machine learning, deep learning, and other advanced methods to solve real-world problems.
 
 ---
 ## Key Projects
