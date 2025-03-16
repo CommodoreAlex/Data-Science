@@ -60,7 +60,7 @@ These are additional notebooks and resources focusing on foundational concepts o
 ---
 ## Skills & Tools
 
-- **Languages**: Python, R
+- **Languages**: Python
 - **Libraries**: Pandas, Scikit-learn, TensorFlow, Keras, OpenAI Gym, Matplotlib
 - **Machine Learning**: Supervised/Unsupervised Learning, Model Evaluation
 - **Deep Learning**: CNNs, RNNs, DQN
