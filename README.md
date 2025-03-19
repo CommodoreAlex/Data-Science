@@ -1,6 +1,10 @@
 # Data Science Projects
 
-This repository showcases my work as an M.S. Computer Science (Data Science/AI) student, with ongoing and future projects focused on key data science techniques. It highlights my commitment to learning and applying data analysis, machine learning, deep learning, and other advanced methods to solve real-world problems.
+This repository showcases my work as an **M.S. Computer Science (Data Science/AI) student**, with ongoing and future projects focused on key data science techniques. It highlights my commitment to learning and applying data analysis, machine learning, deep learning, and other advanced methods to solve real-world problems.
+
+### Expanding My Learning: AI Security & Red Teaming
+
+Alongside my data science studies, I am actively pursuing the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)). This training builds expertise in **AI security, adversarial attacks, red teaming strategies, and model exploitation**, aligned with Google’s **Secure AI Framework (SAIF)**. By integrating **offensive security testing**, I aim to understand and mitigate vulnerabilities in AI-driven applications, complementing my broader AI and data science learning.
 
 ---
 ## Key Projects
@@ -22,6 +26,12 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Approach**: Focused on testing multiple machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting (XGBoost), to predict customer churn. The project involves data exploration, feature engineering, and model performance evaluation.
 - **Tools & Libraries**: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost
 - **Notebook**: [Telco Customer Churn Prediction Notebook](./ML.ipynb)
+
+**Natural Language Processing with NLTK:**  
+- **Objective**: Explore and implement core NLP techniques to process and analyze text data effectively, focusing on tokenization, POS tagging, named entity recognition (NER), and text normalization.  
+- **Approach**: Utilize Python’s `NLTK` library to perform text preprocessing, including segmentation, stop word removal, stemming, and lemmatization. Apply POS tagging and NER to extract meaningful insights from text.  
+- **Tools & Libraries**: Python, NLTK
+- **Notebook**: [Natural Language Processing](NLP./ML.ipynb)  
 
 
 ----
@@ -52,7 +62,6 @@ These are additional notebooks and resources focusing on foundational concepts o
 ---
 ## Future Areas of Focus
 
-- **Natural Language Processing**: Text analysis, sentiment analysis, and classification.
 - **Deep Learning**: Neural networks for tasks like image classification using MNIST.
 - **Reinforcement Learning**: Implementing algorithms with OpenAI Gym.
 - **Malware Analysis**: Leveraging data science techniques to dissect and understand malware behavior, utilizing machine learning for pattern recognition, anomaly detection, and automated classification.
