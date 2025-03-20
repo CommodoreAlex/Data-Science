@@ -27,17 +27,22 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Tools & Libraries**: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost
 - **Notebook**: [Telco Customer Churn Prediction Notebook](./ML.ipynb)
 
-**Natural Language Processing with NLTK:**  
-- **Objective**: Explore and implement core NLP techniques to process and analyze text data effectively, focusing on tokenization, POS tagging, named entity recognition (NER), and text normalization.  
-- **Approach**: Utilize Python’s `NLTK` library to perform text preprocessing, including segmentation, stop word removal, stemming, and lemmatization. Apply POS tagging and NER to extract meaningful insights from text.  
-- **Tools & Libraries**: Python, NLTK
-- **Notebook**: [Natural Language Processing](NLP./ML.ipynb)  
-
+**Natural Language Processing with Hugging Face:**
+- **Objective**: Explore Hugging Face’s NLP capabilities by utilizing transformer models for various text-processing tasks such as text classification, summarization, and question answering.
+- **Approach**: Implement Hugging Face pipelines to simplify NLP workflows, experiment with tokenizers, and pre-trained models. The project involves loading and processing text, applying models, and evaluating outputs.
+- **Tools & Libraries**: Python, Hugging Face Transformers, PyTorch
+- **Notebook**: [Natural Language Processing with Hugging Face](Hugging./ML.ipynb)
 
 ----
 ## Supplementary Work
 
 These are additional notebooks and resources focusing on foundational concepts or experimentation with tools.
+
+**Natural Language Processing with NLTK:**  
+- **Objective**: Explore and implement core NLP techniques to process and analyze text data effectively, focusing on tokenization, POS tagging, named entity recognition (NER), and text normalization.  
+- **Approach**: Utilize Python’s `NLTK` library to perform text preprocessing, including segmentation, stop word removal, stemming, and lemmatization. Apply POS tagging and NER to extract meaningful insights from text.  
+- **Tools & Libraries**: Python, NLTK
+- **Notebook**: [Natural Language Processing](NLP./ML.ipynb)
 
 **FirstCuda: CUDA Programming in Jupyter Notebook for Beginners**
 - **Focus**: Introduction to CUDA programming for high-performance computing tasks using NVIDIA GPUs within a Jupyter Notebook. It covers setting up CUDA with Jupyter/Anaconda, benchmarking CPU vs. GPU performance, and writing custom CUDA kernels for element-wise operations.
