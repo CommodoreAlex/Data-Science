@@ -31,7 +31,7 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Objective**: Explore Hugging Face’s NLP capabilities by utilizing transformer models for various text-processing tasks such as text classification, summarization, and question answering.
 - **Approach**: Implement Hugging Face pipelines to simplify NLP workflows, experiment with tokenizers, and pre-trained models. The project involves loading and processing text, applying models, and evaluating outputs.
 - **Tools & Libraries**: Python, Hugging Face Transformers, PyTorch
-- **Notebook**: [Natural Language Processing with Hugging Face](Hugging./ML.ipynb)
+- **Notebook**: [Natural Language Processing with Hugging Face](Hugging.ipynb)
 
 ----
 ## Supplementary Work
