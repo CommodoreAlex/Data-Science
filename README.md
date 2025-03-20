@@ -7,6 +7,13 @@ This repository showcases my work as an **M.S. Computer Science (Data Science/AI
 Alongside my data science studies, I am actively pursuing the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)). This training builds expertise in **AI security, adversarial attacks, red teaming strategies, and model exploitation**, aligned with Google’s **Secure AI Framework (SAIF)**. By integrating **offensive security testing**, I aim to understand and mitigate vulnerabilities in AI-driven applications, complementing my broader AI and data science learning.
 
 ---
+## Future Areas of Focus
+
+- **Deep Learning**: Neural networks for tasks like image classification using MNIST.
+- **Reinforcement Learning**: Implementing algorithms with OpenAI Gym.
+- **Malware Analysis**: Leveraging data science techniques to dissect and understand malware behavior, utilizing machine learning for pattern recognition, anomaly detection, and automated classification.
+
+---
 ## Key Projects
 
 These projects showcase my focused work in data science, machine learning, and data visualization.
@@ -63,13 +70,6 @@ These are additional notebooks and resources focusing on foundational concepts o
 - **Focus**: This notebook explores the basic Create, Read, Update, and Delete (CRUD) operations using NumPy arrays, providing a foundation for data manipulation.
 - **Tools**: Python, NumPy
 - **Notebook**: [CRUD Operations with NumPy](./crud.ipynb)
-
----
-## Future Areas of Focus
-
-- **Deep Learning**: Neural networks for tasks like image classification using MNIST.
-- **Reinforcement Learning**: Implementing algorithms with OpenAI Gym.
-- **Malware Analysis**: Leveraging data science techniques to dissect and understand malware behavior, utilizing machine learning for pattern recognition, anomaly detection, and automated classification.
 
 ---
 ## Skills & Tools
