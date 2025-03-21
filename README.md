@@ -40,6 +40,12 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Tools & Libraries**: Python, Hugging Face Transformers, PyTorch
 - **Notebook**: [Natural Language Processing with Hugging Face](Hugging.ipynb)
 
+**Deep Learning: Simple MNIST Neural Network Model:**
+- **Objective**: Explore the MNIST dataset and build a simple neural network to classify handwritten digits using deep learning techniques. Understand the basic principles of deep learning, including neural network architecture, activation functions, and optimization methods.
+- **Approach**: Implement a multi-layer neural network with ReLU, sigmoid, and softmax activation functions. Train the model on the MNIST dataset and evaluate its accuracy using test data. Visualize misclassifications through a confusion matrix.
+- **Tools & Libraries**: Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn
+- **Notebook**: [Deep Learning: Simple MNIST Neural Network Model](MNIST1.ipynb)
+
 ----
 ## Supplementary Work
 
