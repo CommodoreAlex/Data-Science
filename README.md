@@ -84,7 +84,7 @@ These are additional notebooks and resources focusing on foundational concepts o
 - **Libraries**: Pandas, Scikit-learn, TensorFlow, Keras, OpenAI Gym, Matplotlib
 - **Machine Learning**: Supervised/Unsupervised Learning, Model Evaluation
 - **Deep Learning**: CNNs, RNNs, DQN
-- **Visualization**: Tableau, Plotly
+- **Visualization**: Tableau, Plotly, Seaborn
 - High-Performance Computing: CUDA, GPU Acceleration
 
 ---
