@@ -9,8 +9,6 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 ---
 ## Future Areas of Focus
 
-- **Deep Learning**: Neural networks for tasks like image classification using MNIST.
-- **Reinforcement Learning**: Implementing algorithms with OpenAI Gym.
 - **Malware Analysis**: Leveraging data science techniques to dissect and understand malware behavior, utilizing machine learning for pattern recognition, anomaly detection, and automated classification.
 
 ---
@@ -45,6 +43,12 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Approach**: Implement a multi-layer neural network with ReLU, sigmoid, and softmax activation functions. Train the model on the MNIST dataset and evaluate its accuracy using test data. Visualize misclassifications through a confusion matrix.
 - **Tools & Libraries**: Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn
 - **Notebook**: [Deep Learning: Simple MNIST Neural Network Model](MNIST1.ipynb)
+
+**Reinforcement Learning: OpenAI Gym Practice:**
+- **Objective**: Explore reinforcement learning using OpenAI Gym by implementing and training a deep Q-network (DQN) to solve the CartPole problem. Understand the principles of reinforcement learning, including the agent-environment interaction, reward maximization, and policy-based learning.
+- **Approach**: Implement a DQN-based agent for the CartPole environment using Keras-RL. Train the agent to balance the pole by applying forces to the cart and optimizing the model's parameters with Q-learning techniques. Test and evaluate the agent’s performance across multiple episodes.
+- **Tools & Libraries**: Python, OpenAI Gym, TensorFlow, Keras, Keras-RL, NumPy
+- **Notebook**: [Reinforcement Learning: OpenAI Gym Practice](gym1.ipynb)
 
 ----
 ## Supplementary Work
