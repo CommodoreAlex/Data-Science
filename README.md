@@ -11,14 +11,13 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 
 **Spam Classification:**
 - **Focus**: Classifying SMS messages as spam or ham using Naive Bayes Theorem to understand adversarial AI techniques.
-- **Tools**: Python, scikit-learn, pandas, NumPy, Jupyter Notebook
+- **Tools**: Python, scikit-learn, pandas, NumPy, Joblib, Jupyter Notebook
 - Notebook: [Spam Classification](Spam.ipynb)
 
 **Network Anomaly Detection:**  
 - **Focus**: Detecting malicious network traffic using Random Forests to identify anomalies that may indicate intrusions, malware, or unauthorized access.  
-- **Tools**: Python, scikit-learn, pandas, NumPy, Jupyter Notebook  
+- **Tools**: Python, scikit-learn, pandas, NumPy, Seaborn, Matplotlib, Joblib, Jupyter Notebook  
 - Notebook: [Network Anomaly Detection](Network.ipynb)  
-
 
 ---
 ## Conventional Data Science Projects
@@ -96,7 +95,6 @@ These projects showcase my focused work in data science, machine learning, and d
 - High-Performance Computing: CUDA, GPU Acceleration
 
 ---
-
 ## Video Resources for Learning Data Science
 
 As I have been scouring the internet for many resources to learn theory, practical projects, and other related subject matter- I have mostly committed those to playlists. See below for resources:
