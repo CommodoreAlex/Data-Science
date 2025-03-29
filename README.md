@@ -1,18 +1,21 @@
-# Data Science Projects
+# Data Science Student Learning Portfolio
 
 This repository showcases my work as an **M.S. Computer Science (Data Science/AI) student**, with ongoing and future projects focused on key data science techniques. It highlights my commitment to learning and applying data analysis, machine learning, deep learning, and other advanced methods to solve real-world problems.
 
-### Expanding My Learning: AI Security & Red Teaming
+**Expanding My Learning with Cybersecurity & Red Teaming Applications:**
 
 Alongside my data science studies, I am actively pursuing the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)). This training builds expertise in **AI security, adversarial attacks, red teaming strategies, and model exploitation**, aligned with Google’s **Secure AI Framework (SAIF)**. By integrating **offensive security testing**, I aim to understand and mitigate vulnerabilities in AI-driven applications, complementing my broader AI and data science learning.
 
 ---
-## Future Areas of Focus
+## Hack The Box: AI Red Teamer Path Projects (Rolling Releases)
 
-- **Malware Analysis**: Leveraging data science techniques to dissect and understand malware behavior, utilizing machine learning for pattern recognition, anomaly detection, and automated classification.
+**Spam Classification:**
+- **Focus**: Classifying SMS messages as spam or ham using Naive Bayes Theorem to understand adversarial AI techniques.
+- **Tools**: Python, scikit-learn, pandas, NumPy, Jupyter Notebook
+- Notebook: [Spam Classification](spam.ipynb)
 
 ---
-## Key Projects
+## Conventional Data Science Projects
 
 These projects showcase my focused work in data science, machine learning, and data visualization.
 
@@ -49,11 +52,6 @@ These projects showcase my focused work in data science, machine learning, and d
 - **Approach**: Implement a DQN-based agent for the CartPole environment using Keras-RL. Train the agent to balance the pole by applying forces to the cart and optimizing the model's parameters with Q-learning techniques. Test and evaluate the agent’s performance across multiple episodes.
 - **Tools & Libraries**: Python, OpenAI Gym, TensorFlow, Keras, Keras-RL, NumPy
 - **Notebook**: [Reinforcement Learning: OpenAI Gym Practice](gym1.ipynb)
-
-----
-## Supplementary Work
-
-These are additional notebooks and resources focusing on foundational concepts or experimentation with tools.
 
 **Natural Language Processing with NLTK:**  
 - **Objective**: Explore and implement core NLP techniques to process and analyze text data effectively, focusing on tokenization, POS tagging, named entity recognition (NER), and text normalization.  
@@ -92,3 +90,15 @@ These are additional notebooks and resources focusing on foundational concepts o
 - High-Performance Computing: CUDA, GPU Acceleration
 
 ---
+
+## Video Resources for Learning Data Science
+
+As I have been scouring the internet for many resources to learn theory, practical projects, and other related subject matter- I have mostly committed those to playlists. See below for resources:
+
+* [Open AI Gym Playlist](https://www.youtube.com/playlist?list=PLhBFZf0L5I7oIFTNTclyvWRciXaVb76Yt)
+* [MISC Data Science](https://www.youtube.com/playlist?list=PLhBFZf0L5I7qDhgcgKYuqsew0DgaCQJ27)
+* [Data Science Lectures](https://www.youtube.com/playlist?list=PLhBFZf0L5I7qN_qb4P1lvrjhHtMd7403_)
+* [CUDA](https://www.youtube.com/playlist?list=PLhBFZf0L5I7qK4syDgdElaY4K1QdZZGNh)
+* [Malware Data Science](https://www.youtube.com/playlist?list=PLhBFZf0L5I7qGUHDPxZKgBfbgt8nRI0Oo)
+
+----
