@@ -12,7 +12,7 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 **Spam Classification:**
 - **Focus**: Classifying SMS messages as spam or ham using Naive Bayes Theorem to understand adversarial AI techniques.
 - **Tools**: Python, scikit-learn, pandas, NumPy, Jupyter Notebook
-- Notebook: [Spam Classification](spam.ipynb)
+- Notebook: [Spam Classification](Spam.ipynb)
 
 ---
 ## Conventional Data Science Projects
