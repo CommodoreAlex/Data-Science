@@ -14,6 +14,12 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 - **Tools**: Python, scikit-learn, pandas, NumPy, Jupyter Notebook
 - Notebook: [Spam Classification](Spam.ipynb)
 
+**Network Anomaly Detection:**  
+- **Focus**: Detecting malicious network traffic using Random Forests to identify anomalies that may indicate intrusions, malware, or unauthorized access.  
+- **Tools**: Python, scikit-learn, pandas, NumPy, Jupyter Notebook  
+- Notebook: [Network Anomaly Detection](Network.ipynb)  
+
+
 ---
 ## Conventional Data Science Projects
 
