@@ -19,6 +19,11 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 - **Tools**: Python, scikit-learn, pandas, NumPy, Seaborn, Matplotlib, Joblib, Jupyter Notebook  
 - Notebook: [Network Anomaly Detection](Network.ipynb)  
 
+**Malware Classification & Analysis:**
+- **Focus**: Classifying malware samples based on their **binary-to-image representations** using **deep learning techniques**. This approach enables **automated malware classification**, reducing reliance on manual reverse engineering and improving threat intelligence. By leveraging **Convolutional Neural Networks (CNNs)** and **transfer learning**, we can enhance detection accuracy and model robustness.
+- **Tools**: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Pandas, NumPy, Seaborn, Matplotlib, Joblib, Jupyter Notebook
+- Notebook: [HTB Academy Malware Classification](mal.ipynb)
+
 ---
 ## Conventional Data Science Projects
 
