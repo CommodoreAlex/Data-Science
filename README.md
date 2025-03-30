@@ -24,6 +24,11 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 - **Tools**: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Pandas, NumPy, Seaborn, Matplotlib, Joblib, Jupyter Notebook
 - Notebook: [HTB Academy Malware Classification](mal.ipynb)
 
+**Hack The Box Skills Assessment: IMDB Movie Reviews:**
+- **Focus**: Developing a machine learning model to classify movie reviews from the IMDB dataset as either positive (1) or negative (0) using natural language processing (NLP) techniques. The project involves training a sentiment classification model and evaluating its performance, with an emphasis on refining machine learning models for sentiment analysis tasks.
+- **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook
+- Notebook: [Hack The Box Skills Assessment](IMDB_HTB.ipynb)
+
 ---
 ## Conventional Data Science Projects
 
