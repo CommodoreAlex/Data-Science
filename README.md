@@ -17,6 +17,7 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 - **[Prompt Injection Attacks against AI Endpoints and Models](https://github.com/CommodoreAlex/AI-Prompt-Injection)**  
   This repository focuses on **prompt injection attacks**, which manipulate AI model inputs to cause unintended behavior. It demonstrates how prompt injection can exploit vulnerabilities in AI systems, emphasizing potential data leaks, system manipulation, and other malicious impacts. The repository also provides techniques to mitigate these risks and secure AI models.
 
+----
 ### Jupyter Notebooks
 
 **Spam Classification:**
@@ -38,6 +39,11 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 - **Focus**: Developing a machine learning model to classify movie reviews from the IMDB dataset as either positive (1) or negative (0) using natural language processing (NLP) techniques. The project involves training a sentiment classification model and evaluating its performance, with an emphasis on refining machine learning models for sentiment analysis tasks.
 - **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook
 - Notebook: [Hack The Box Skills Assessment](IMDB_HTB.ipynb)
+
+**Red Teaming AI: Manipulating the Model:**  
+- **Focus**: Exploring how machine learning models can be manipulated through adversarial techniques, including injection manipulation (ML01) and data poisoning (ML02). The project demonstrates how modifying input and training data affects model behavior, highlighting vulnerabilities in AI security.  
+- **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook  
+- Notebook: [Red Teaming AI: Manipulating the Model](Manipulate.ipynb)
 
 ---
 ## Conventional Data Science Projects
