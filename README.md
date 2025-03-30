@@ -17,7 +17,6 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 - **[Prompt Injection Attacks against AI Endpoints and Models](https://github.com/CommodoreAlex/AI-Prompt-Injection)**  
   This repository focuses on **prompt injection attacks**, which manipulate AI model inputs to cause unintended behavior. It demonstrates how prompt injection can exploit vulnerabilities in AI systems, emphasizing potential data leaks, system manipulation, and other malicious impacts. The repository also provides techniques to mitigate these risks and secure AI models.
 
-----
 #### Jupyter Notebooks
 
 **Spam Classification:**
