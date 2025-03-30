@@ -7,7 +7,17 @@ This repository showcases my work as an **M.S. Computer Science (Data Science/AI
 Alongside my data science studies, I am actively pursuing the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)). This training builds expertise in **AI security, adversarial attacks, red teaming strategies, and model exploitation**, aligned with Google’s **Secure AI Framework (SAIF)**. By integrating **offensive security testing**, I aim to understand and mitigate vulnerabilities in AI-driven applications, complementing my broader AI and data science learning.
 
 ---
-## Hack The Box: AI Red Teamer Path Projects (Rolling Releases)
+## Hack The Box: AI Red Teamer Path
+
+#### Pointers to other GitHub Repositories as part of the Hack The Box AI Red Teamer Path (In-Progress)
+
+- **[Red Teaming TTPs for AI](https://github.com/CommodoreAlex/Red-Teaming-AI)**  
+  This repository explores **Red Teaming tactics, techniques, and procedures (TTPs)** applied to AI systems. It includes methods for assessing and exploiting vulnerabilities in AI models, focusing on adversarial attacks, data poisoning, and model manipulation. The goal is to understand how to test and secure AI models by simulating real-world attacks.
+
+- **[Prompt Injection Attacks against AI Endpoints and Models](https://github.com/CommodoreAlex/AI-Prompt-Injection)**  
+  This repository focuses on **prompt injection attacks**, which manipulate AI model inputs to cause unintended behavior. It demonstrates how prompt injection can exploit vulnerabilities in AI systems, emphasizing potential data leaks, system manipulation, and other malicious impacts. The repository also provides techniques to mitigate these risks and secure AI models.
+
+#### Projects from Applications of AI in Infosec Module
 
 **Spam Classification:**
 - **Focus**: Classifying SMS messages as spam or ham using Naive Bayes Theorem to understand adversarial AI techniques.
