@@ -45,6 +45,11 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 - **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook  
 - Notebook: [Red Teaming AI: Manipulating the Model](Manipulate.ipynb)
 
+**Red Teaming AI Skills Assessment: Data Poisoning**
+- **Focus**: Understanding and implementing data poisoning techniques to manipulate the behavior of machine learning classifiers. The goal is to insert a backdoor into a spam classification system that misclassifies messages with a specific phrase as ham, while maintaining overall high accuracy.
+- **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook  
+- **Notebook**: [Data Poisoning Skills Assessment](RedSkillAssessment.ipynb)  
+
 ---
 ## Conventional Data Science Projects
 
