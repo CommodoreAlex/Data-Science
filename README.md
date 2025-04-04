@@ -4,12 +4,10 @@ This repository showcases my work as an **M.S. Computer Science (Data Science/AI
 
 **Expanding My Learning with Cybersecurity & Red Teaming Applications:**
 
-Alongside my data science studies, I am actively pursuing the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)). This training builds expertise in **AI security, adversarial attacks, red teaming strategies, and model exploitation**, aligned with Google’s **Secure AI Framework (SAIF)**. By integrating **offensive security testing**, I aim to understand and mitigate vulnerabilities in AI-driven applications, complementing my broader AI and data science learning.
+Alongside my data science studies, I have completed the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)). This training builds expertise in **AI security, adversarial attacks, red teaming strategies, and model exploitation**, aligned with Google’s **Secure AI Framework (SAIF)**. By integrating **offensive security testing**, I aim to understand and mitigate vulnerabilities in AI-driven applications, complementing my broader AI and data science learning.
 
 ---
-## Hack The Box: AI Red Teamer Path (Complete)
-
-[Proof of Completion](https://academy.hackthebox.com/achievement/586157/297)
+## Hack The Box: AI Red Teamer Path [Proof of Completion](https://academy.hackthebox.com/achievement/586157/297)
 
 ![image](https://github.com/user-attachments/assets/479b4e98-5b57-496c-9888-153df3197c95)
 
