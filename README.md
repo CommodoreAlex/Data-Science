@@ -4,23 +4,23 @@ This repository showcases my work as an **M.S. Computer Science (Data Science/AI
 
 **Expanding My Learning with Cybersecurity & Red Teaming Applications:**
 
-Alongside my data science studies, I have completed the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)). This training builds expertise in **AI security, adversarial attacks, red teaming strategies, and model exploitation**, aligned with Google’s **Secure AI Framework (SAIF)**. By integrating **offensive security testing**, I aim to understand and mitigate vulnerabilities in AI-driven applications, complementing my broader AI and data science learning.
+Alongside my data science studies, I have completed the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)) and [Proof of Completion](https://academy.hackthebox.com/achievement/586157/path/418). Focusing on **adversarial ML, red teaming, and model exploitation**. Training aligns with **Google’s SAIF** and the **OWASP Top 10 for LLMs**, sharpening my ability to identify and mitigate risks in AI-driven systems through offensive security techniques.
 
----
-## Hack The Box: AI Red Teamer Path [Proof of Completion](https://academy.hackthebox.com/achievement/586157/path/418)
+![image](https://github.com/user-attachments/assets/bbb941c4-d3b2-4ab8-85b1-97c6f1a27eb4)
 
-![image](https://github.com/user-attachments/assets/479b4e98-5b57-496c-9888-153df3197c95)
+----
+## Red Teaming TTPs for AI Models
 
-#### Pointers to other GitHub Repositories as part of the Hack The Box AI Red Teamer Path
-
-- **[Red Teaming TTPs for AI](https://github.com/CommodoreAlex/Red-Teaming-AI)**  
+- **[Red Teaming TTPs for AI Models](https://github.com/CommodoreAlex/Red-Teaming-AI)**  
   This repository explores **Red Teaming tactics, techniques, and procedures (TTPs)** applied to AI systems. It includes methods for assessing and exploiting vulnerabilities in AI models, focusing on adversarial attacks, data poisoning, and model manipulation. The goal is to understand how to test and secure AI models by simulating real-world attacks.
 
-- **[Prompt Injection Attacks against AI Endpoints and Models](https://github.com/CommodoreAlex/AI-Prompt-Injection)**  
+## Prompt Injection Attacks against AI Models
+
+- **[Prompt Injection Attacks against AI Models](https://github.com/CommodoreAlex/AI-Prompt-Injection)**  
   This repository focuses on **prompt injection attacks**, which manipulate AI model inputs to cause unintended behavior. It demonstrates how prompt injection can exploit vulnerabilities in AI systems, emphasizing potential data leaks, system manipulation, and other malicious impacts. The repository also provides techniques to mitigate these risks and secure AI models.
 
 ----
-### Jupyter Notebooks
+## Hack The Box: AI Red Teamer Projects
 
 **Spam Classification:**
 - **Focus**: Classifying SMS messages as spam or ham using Naive Bayes Theorem to understand adversarial AI techniques.
@@ -46,6 +46,10 @@ Alongside my data science studies, I have completed the **AI Red Teamer Job Role
 - **Focus**: Exploring how machine learning models can be manipulated through adversarial techniques, including injection manipulation (ML01) and data poisoning (ML02). The project demonstrates how modifying input and training data affects model behavior, highlighting vulnerabilities in AI security.  
 - **Tools**: Python, scikit-learn, NLTK, pandas, NumPy, Jupyter Notebook  
 - Notebook: [Red Teaming AI: Manipulating the Model](Manipulate.ipynb)
+
+**Data Poisoning Python Implementation:**
+- **Focus**: Influence the predictive outcomes of a machine learning model with various methods of data poisoning: manipulating specific entries to distort patterns and integrity, alter index assignment to disrupt data alignment and integrity, add irrelevant or corrupt data to increase noise. These work toward diminishing a model's capability to accurately identify meaningful patterns.
+- **Source**: [Data Poisoning Script](https://github.com/CommodoreAlex/Red-Teaming-AI/blob/main/poison.py)
 
 **Red Teaming AI Skills Assessment: Data Poisoning**
 - **Focus**: Understanding and implementing data poisoning techniques to manipulate the behavior of machine learning classifiers. The goal is to insert a backdoor into a spam classification system that misclassifies messages with a specific phrase as ham, while maintaining overall high accuracy.
@@ -128,14 +132,16 @@ These projects showcase my focused work in data science, machine learning, and d
 - High-Performance Computing: CUDA, GPU Acceleration
 
 ---
-## Video Resources for Learning Data Science
+## Video and Book Resources for Learning Data Science
 
-As I have been scouring the internet for many resources to learn theory, practical projects, and other related subject matter- I have mostly committed those to playlists. See below for resources:
-
+**Video Resources:**
 * [Open AI Gym Playlist](https://www.youtube.com/playlist?list=PLhBFZf0L5I7oIFTNTclyvWRciXaVb76Yt)
 * [MISC Data Science](https://www.youtube.com/playlist?list=PLhBFZf0L5I7qDhgcgKYuqsew0DgaCQJ27)
 * [Data Science Lectures](https://www.youtube.com/playlist?list=PLhBFZf0L5I7qN_qb4P1lvrjhHtMd7403_)
 * [CUDA](https://www.youtube.com/playlist?list=PLhBFZf0L5I7qK4syDgdElaY4K1QdZZGNh)
 * [Malware Data Science](https://www.youtube.com/playlist?list=PLhBFZf0L5I7qGUHDPxZKgBfbgt8nRI0Oo)
+
+**Book Resources:**
+- [Malware Data Science](https://www.amazon.com/Malware-Data-Science-Detection-Attribution/dp/1593278594)
 
 ----
