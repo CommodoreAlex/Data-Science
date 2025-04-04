@@ -6,8 +6,6 @@ This repository showcases my work as an **M.S. Computer Science (Data Science/AI
 
 Alongside my data science studies, I have completed the **AI Red Teamer Job Role Path** from **Hack The Box** and **Google** ([Course Link](https://academy.hackthebox.com/path/preview/ai-red-teamer)) and [Proof of Completion](https://academy.hackthebox.com/achievement/586157/path/418). Focusing on **adversarial ML, red teaming, and model exploitation**. Training aligns with **Google’s SAIF** and the **OWASP Top 10 for LLMs**, sharpening my ability to identify and mitigate risks in AI-driven systems through offensive security techniques.
 
-![image](https://github.com/user-attachments/assets/de167635-7986-4faa-a4ae-25465602db27)
-
 ----
 ## Red Teaming TTPs for AI Models
 
