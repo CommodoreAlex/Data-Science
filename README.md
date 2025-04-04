@@ -9,8 +9,9 @@ Alongside my data science studies, I am actively pursuing the **AI Red Teamer Jo
 ---
 ## Hack The Box: AI Red Teamer Path (Complete)
 
-![image](https://github.com/user-attachments/assets/3d912228-601c-4c13-a4c3-3dbe4b596c38)
+[Proof of Completion](https://academy.hackthebox.com/achievement/586157/297)
 
+![image](https://github.com/user-attachments/assets/479b4e98-5b57-496c-9888-153df3197c95)
 
 #### Pointers to other GitHub Repositories as part of the Hack The Box AI Red Teamer Path
 
