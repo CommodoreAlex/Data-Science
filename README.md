@@ -23,7 +23,7 @@ Alongside my data science studies, I have completed the **AI Red Teamer Job Role
 **Spam Classification:**
 - **Focus**: Classifying SMS messages as spam or ham using Naive Bayes Theorem to understand adversarial AI techniques.
 - **Tools**: Python, scikit-learn, pandas, NumPy, Joblib, Jupyter Notebook
-- Notebook: [Spam Classification](Red-Team/Spam.ipynb)
+- Notebook: [Spam Classification](Red%20Team/Spam.ipynb)
 
 **Network Anomaly Detection:**  
 - **Focus**: Detecting malicious network traffic using Random Forests to identify anomalies that may indicate intrusions, malware, or unauthorized access.  
