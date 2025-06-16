@@ -129,7 +129,33 @@ Then select the environment pointing to your JAX environment:
 <your-path>\jaxenv\Scripts\python.exe
 ```
 
+It will probably look like this:
 
+![image](https://github.com/user-attachments/assets/6f1cccfb-1667-4769-a386-74aec005ab12)
+
+VS Code creates a .vscode/settings.json file in your folder, like:
+```json
+{
+  "python.defaultInterpreterPath": "jaxenv\\Scripts\\python.exe"
+}
+```
+
+See this in the directory structure on the left-side of your screen:
+
+![image](https://github.com/user-attachments/assets/3d415075-ba4f-47f2-a967-99fcd815e537)
+
+Now VSCode auto-uses jaxenv for:
+- The Python interpreter
+- The terminal
+- linting, IntelliSense, Jupyter, etc.
+
+You never need to activate manually unless you want to override it.
+
+### Optional: Manual Override When Needed
+
+**If you ever don’t want to use jaxenv, just switch interpreter (same as above) to another Python path. You’re in control.**
+
+---
 
 ## Notes
 
