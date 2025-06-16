@@ -40,8 +40,7 @@ To get started with JAX in your development environment, refer to the setup inst
 
 This guide walks through:
 
-- Creating an isolated environment (e.g., with `venv`)
-- Installing JAX with or without GPU support
+- Creating an isolated environment
 - Configuring VSCode to work smoothly with the JAX ecosystem
 - Running and troubleshooting basic scripts
 
