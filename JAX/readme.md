@@ -36,7 +36,7 @@ Its primary use cases include:
 
 To get started with JAX in your development environment, refer to the setup instructions:
 
-[Setup Guide for VSCode and JAX](vscode.md)
+[Setup Guide for VSCode and JAX](Setup-JAX/vscode.md)
 
 This guide walks through:
 
