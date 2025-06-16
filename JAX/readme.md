@@ -109,7 +109,29 @@ Expected output:
 
 ---
 
-## 7. Notes
+## Let VS Code Automatically Use Your JAX Environment
+
+This method ensures:
+- VS Code uses jaxenv every time you open your folder
+- No need to activate manually
+- No scripts, no commands, no clicking — just open and start coding
+
+Open your project folder in VS Code.
+
+Press Ctrl+Shift+P → select:
+
+Notice the target 'Python Interpreter', select that one:
+
+![image](https://github.com/user-attachments/assets/c4ed8257-a66f-491f-acb7-d887811d99c8)
+
+Then select the environment pointing to your JAX environment:
+```cmd
+<your-path>\jaxenv\Scripts\python.exe
+```
+
+
+
+## Notes
 
 This setup uses the CPU-only version of JAX. GPU acceleration on Windows requires using WSL2 with a compatible NVIDIA driver and CUDA toolkit.
 
