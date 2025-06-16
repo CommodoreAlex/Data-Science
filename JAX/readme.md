@@ -67,6 +67,11 @@ scipy       1.15.3
 
 ## 5. Configure Python Interpreter in VS Code
 
+This method ensures:
+- VS Code uses jaxenv every time you open your folder
+- No need to activate manually
+- No scripts, no commands, no clicking — just open and start coding
+
 1. Press `Ctrl+Shift+P` in VS Code
     
 2. Select: `Python: Select Interpreter`
@@ -78,12 +83,37 @@ scipy       1.15.3
 jaxenv\Scripts\python.exe
 ```
 
+![image](https://github.com/user-attachments/assets/c4ed8257-a66f-491f-acb7-d887811d99c8)
+
 If it’s not listed, click **Enter interpreter path** and browse to:
 ```cmd
 <your_project_folder>\jaxenv\Scripts\python.exe
 ```
 
-This ensures IntelliSense and code execution work inside your JAX environment.
+![image](https://github.com/user-attachments/assets/6f1cccfb-1667-4769-a386-74aec005ab12)
+
+Now VSCode auto-uses jaxenv for:
+- The Python interpreter
+- The terminal
+- linting, IntelliSense, Jupyter, etc.
+
+
+VS Code creates a .vscode/settings.json file in your folder, like:
+```json
+{
+  "python.defaultInterpreterPath": "jaxenv\\Scripts\\python.exe"
+}
+```
+
+See this in the directory structure on the left-side of your screen:
+
+![image](https://github.com/user-attachments/assets/3d415075-ba4f-47f2-a967-99fcd815e537)
+
+You never need to activate manually unless you want to override it.
+
+### Optional: Manual Override When Needed
+
+If you ever don’t want to use jaxenv, just switch interpreter (same as above) to another Python path. You’re in control.
 
 ---
 
@@ -109,29 +139,10 @@ Expected output:
 
 ---
 
-## Let VS Code Automatically Use Your JAX Environment
 
-This method ensures:
-- VS Code uses jaxenv every time you open your folder
-- No need to activate manually
-- No scripts, no commands, no clicking — just open and start coding
 
-Open your project folder in VS Code.
 
-Press Ctrl+Shift+P → select:
 
-Notice the target 'Python Interpreter', select that one:
-
-![image](https://github.com/user-attachments/assets/c4ed8257-a66f-491f-acb7-d887811d99c8)
-
-Then select the environment pointing to your JAX environment:
-```cmd
-<your-path>\jaxenv\Scripts\python.exe
-```
-
-It will probably look like this:
-
-![image](https://github.com/user-attachments/assets/6f1cccfb-1667-4769-a386-74aec005ab12)
 
 VS Code creates a .vscode/settings.json file in your folder, like:
 ```json
