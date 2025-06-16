@@ -139,36 +139,7 @@ Expected output:
 
 ---
 
-
-
-
-
-
-VS Code creates a .vscode/settings.json file in your folder, like:
-```json
-{
-  "python.defaultInterpreterPath": "jaxenv\\Scripts\\python.exe"
-}
-```
-
-See this in the directory structure on the left-side of your screen:
-
-![image](https://github.com/user-attachments/assets/3d415075-ba4f-47f2-a967-99fcd815e537)
-
-Now VSCode auto-uses jaxenv for:
-- The Python interpreter
-- The terminal
-- linting, IntelliSense, Jupyter, etc.
-
-You never need to activate manually unless you want to override it.
-
-### Optional: Manual Override When Needed
-
-**If you ever don’t want to use jaxenv, just switch interpreter (same as above) to another Python path. You’re in control.**
-
----
-
-## Notes
+## 7. Notes
 
 This setup uses the CPU-only version of JAX. GPU acceleration on Windows requires using WSL2 with a compatible NVIDIA driver and CUDA toolkit.
 
