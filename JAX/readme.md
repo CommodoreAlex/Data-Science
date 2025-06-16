@@ -1,6 +1,6 @@
 # JAX Installation Guide for Windows (VS Code)
 
-This guide provides a complete step-by-step process to install and run JAX in a Python virtual environment using Visual Studio Code on Windows.
+Step-by-step process to install and run JAX in a Python virtual environment using Visual Studio Code on Windows.
 
 ---
 
